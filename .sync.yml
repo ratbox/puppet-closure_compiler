@@ -1,0 +1,8 @@
+# PDK instructions
+---
+appveyor.yml:
+  delete: true
+.gitlab-ci.yml:
+  delete: true
+
+# vim: ts=2 sw=2 et

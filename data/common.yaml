@@ -1,0 +1,4 @@
+---
+closure_compiler::ensure: present
+closure_compiler::source: https://dl.google.com/closure-compiler/compiler-latest.zip
+closure_compiler::install_path: /opt/closure-compiler
