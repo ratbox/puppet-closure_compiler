@@ -1,4 +1,5 @@
+# https://github.com/google/closure-compiler/wiki/Binary-Downloads
 ---
 closure_compiler::ensure: present
-closure_compiler::source: https://dl.google.com/closure-compiler/compiler-latest.zip
+closure_compiler::source: https://dl.google.com/closure-compiler/compiler-20200719.zip
 closure_compiler::install_path: /opt/closure-compiler

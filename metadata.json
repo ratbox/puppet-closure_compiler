@@ -1,6 +1,6 @@
 {
   "name": "spy-closure_compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "spy",
   "summary": "Manage Google Closure Compiler",
   "license": "Apache-2.0",
